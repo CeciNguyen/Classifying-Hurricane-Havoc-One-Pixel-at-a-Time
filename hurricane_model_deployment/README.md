@@ -8,7 +8,6 @@ This project deploys a trained **Alternate LeNet-5 (Alt LeNet-5)** convolutional
 ## Files Included
 - `Dockerfile`: Defines the container environment
 - `docker-compose.yml`: Configuration to start the model server container
-- `hurricane_damage_model.h5`: Trained model file (in native Keras HDF5 format)
 - `app.py`: Python Flask application to serve the model
 - `requirements.txt`: Python dependencies
 
